@@ -24,7 +24,7 @@ class AddTaskActivity : AppCompatActivity() {
     }
 
     fun save(view: View) {
-
+        //data to be saved
     }
 
 
