@@ -4,7 +4,7 @@ import android.util.Log
 import mtj.roomdatabaseapplication.dagger2.Engine
 import javax.inject.Inject
 
-class DiselEngine  constructor(val horsePower:Int):Engine {
+class DiselEngine @Inject constructor(val horsePower:Int):Engine {
 
 
     override fun start() {

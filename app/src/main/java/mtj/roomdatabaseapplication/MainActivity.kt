@@ -10,7 +10,9 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
        val  floating_button_add:FloatingActionButton = findViewById(R.id.floating_button_add)
        floating_button_add.setOnClickListener {
-
+            //nothing to do
        }
     }
+
+
 }

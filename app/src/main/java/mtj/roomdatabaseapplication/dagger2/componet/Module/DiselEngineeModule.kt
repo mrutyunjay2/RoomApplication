@@ -10,10 +10,13 @@ import mtj.roomdatabaseapplication.dagger2.componet.PetrolEngine
 @Module
  class DiselEngineeModule constructor(val horsePower:Int){
 
-
     @Provides
-     fun provideDiselEnginee ():Engine{
-         return DiselEngine(horsePower)
+    fun provideHorsePower():Int{
+        return horsePower
+    }
+    @Provides
+     fun provideEngine(engine: DiselEngine):Engine{
+         return  engine;
      }
 
 }
