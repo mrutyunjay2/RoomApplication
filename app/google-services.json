@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "216629990088",
+    "project_id": "roomdb-f102f",
+    "storage_bucket": "roomdb-f102f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:216629990088:android:938cca13cc3082d6a98bfd",
+        "android_client_info": {
+          "package_name": "mtj.roomdatabaseapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "216629990088-eqhf4fkh5mg57cmlcie9btqqbobocmam.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "mtj.roomdatabaseapplication",
+            "certificate_hash": "02584f1df60abf687e699ef6439ffd3d9ee93cc3"
+          }
+        },
+        {
+          "client_id": "216629990088-p6jh15e9d4ju0ib5pmog59q196d8u9un.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRdwlrnlAwHwc5LVSHsdUVDHNIsQbDzt8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "216629990088-p6jh15e9d4ju0ib5pmog59q196d8u9un.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
